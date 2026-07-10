@@ -13,7 +13,7 @@
     "BOT_NUMBER": {
       "description": "The bot's phone number(Web accout created)",
       "required": true,
-      "value": "9478556644"
+      "value": "94775585251"
     },
     "PASSWORD": {
       "description": "Password for the bot (if any)",
